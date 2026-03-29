@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # run.py — Single entry point for Salon Bot v3
-# Usage: python run.py
+# Usage: python3 run.py
 
 import asyncio
 import logging
